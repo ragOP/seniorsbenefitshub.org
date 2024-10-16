@@ -58,6 +58,7 @@ function App() {
           <Route path = "/" element = {<VeryNew2 />} />
           <Route path="/terms-and-conditions" element={<Terms />} />
           <Route path="/privacy-policy" element={<Privacy />} />
+{/*            <Route path="/privacy-policy" element={<Privacy />} /> */}
 
        
 
